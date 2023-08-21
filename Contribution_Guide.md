@@ -16,7 +16,7 @@ Welcome to the contribution guide for Web3-with-The-Graph-India! We're excited t
 
 ## Introduction
 
-Web3-with-The-Graph-India is an open source project that aims to [Our Aim Here]. We welcome contributions from the community and value the diversity of ideas and experiences that contributors bring.
+Web3-with-The-Graph-India is an project that aims to [Our Aim Here]. We welcome contributions from the community and value the diversity of ideas and experiences that contributors bring.
 
 ## Getting Started
 
