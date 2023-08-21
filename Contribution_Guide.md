@@ -9,6 +9,7 @@ Welcome to the contribution guide for Web3-with-The-Graph-India! We're excited t
 - [Contributing](#contributing)
     - [Issues](#issues)
     - [Pull Requests](#pull-requests)
+- [Code Style](#code-style)
 - [Documentation](#documentation)
 - [Review Process](#review-process)
 - [Community Guidelines](#community-guidelines)
@@ -33,17 +34,19 @@ To get started with contributing, follow these steps:
 
 ### Issues
 
-If you find a bug, have a feature request, or want to discuss an improvement, please open an issue on our [issue tracker](link-to-issue-tracker). Provide as much detail as possible to help us understand the problem or suggestion.
+If you find a bug, have a feature request, or want to discuss an improvement, please open an issue on our [issue tracker](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/issues). Provide as much detail as possible to help us understand the problem or suggestion.
 
 ### Pull Requests
 
 We welcome pull requests for bug fixes, improvements, and new features. Here's the process:
 
 1. Create a fork and branch as mentioned in the "Getting Started" section.
-2. Submit a pull request with a descriptive title and details about your changes.
-3. Your pull request will be reviewed, and feedback will be provided.
-4. Make any necessary changes based on the feedback.
-5. Once approved, your changes will be merged into the main repository.
+2. Make your changes, following our [code style guidelines](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Code_Style.md) .
+3. Submit a pull request with a descriptive title and details about your changes.
+4. Your pull request will be reviewed, and feedback will be provided.
+5. Make any necessary changes based on the feedback.
+6. Once approved, your changes will be merged into the main repository.
+
 
 
 ## Documentation
@@ -56,11 +59,8 @@ All pull requests will be reviewed by our maintainers. Be prepared to address fe
 
 ## Community Guidelines
 
-We expect all contributors to adhere to our code of conduct and contribute in a respectful and inclusive manner. Please read our [community guidelines](link-to-community-guidelines) before getting involved.
+We expect all contributors to adhere to our code of conduct and contribute in a respectful and inclusive manner. Please read our [community guidelines](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Community_Guidelines.md) before getting involved.
 
-## License
-
-By contributing to Project Name, you agree that your contributions will be licensed under the [project's license](link-to-license).
 
 ---
 
