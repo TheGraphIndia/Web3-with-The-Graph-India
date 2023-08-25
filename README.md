@@ -1,14 +1,29 @@
 # Web3-with-The-Graph-India
 
-Navigating WEB3 with The Graph
+Welcome to Navigating WEB3 with The Graph
+
+## Before divining into event
+
+- [ ] Star and fork the repository.
+- [ ] .
+
+---
 
 # Sessions
 
-### Session 1
+This event will consist of 3 sessions, where TheGraphIndia community members will be providing you Web3/Blockchain guidance.
 
-### Session 2
+---
 
-### Session 3
+## Sessions
+
+<!-- ⚠️ IMPORTANT: In order for a submission to be qualified, you must submit to this [ Session Challenge Submission ](). -->
+
+| Session    | Link                                                                                      | Description                     | Prizes |
+| ---------- | ----------------------------------------------------------------------------------------- | ------------------------------- | ------ |
+| Session -1 | [`Start`](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/tree/main/Session_1) | Startup Guide to get into Web3. | NFT    |
+| Session -2 | [`Start`](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/tree/main/Session_2) | How to deploy smart contract.   | NFT    |
+| Session -3 | [`Start`](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/tree/main/Session_3) | How to make subgraph on it.     | NFT    |
 
 # What is Graph Protocol
 
