@@ -1,8 +1,12 @@
 # Web3-with-The-Graph-India
 
-Welcome to Navigating WEB3 with The Graph
+![Github Main Readme]()
 
-## Before divining into event
+Welcome to Navigating WEB3 with The Graph. This event is completely run by The Graph India Community and it is open to everyone who wants to participate.
+
+["TheGraphIndia Community" Telegram](https://t.co/2k61q3yf9W) | [TheGraphIndia Community" Twitter](https://twitter.com/TheGraphIndia?s=20)
+
+## Before diving into event
 
 - [ ] Star and fork the repository.
 - [ ] .
