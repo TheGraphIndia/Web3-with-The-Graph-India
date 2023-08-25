@@ -9,7 +9,6 @@ Welcome to Navigating WEB3 with The Graph. This event is completely run by The G
 ## Before diving into event
 
 - [ ] Star and fork the repository.
-- [ ] .
 
 ---
 
