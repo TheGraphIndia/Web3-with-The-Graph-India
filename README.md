@@ -40,6 +40,6 @@ The Graph is a decentralized protocol that is designed for indexing and querying
 
 ## For Technical query reach out to:
 
-- Swayam Karle
+-  <a href = "https://github.com/DevSwayam">Swayam Karle</a>
 - Yash Dewasthale
 - Viraj Patva
