@@ -11,8 +11,6 @@ Welcome to Navigating WEB3 with The Graph. This event is completely run by The G
 - Checkout <a href = "https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Contribution_Guide.md">Contribution Guidelines </a>
 - Checkout <a href = "https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Code_Style.md">Code Style Guidelines </a>
 
-- [ ] Star and fork the repository.
-
 ---
 
 # Sessions
