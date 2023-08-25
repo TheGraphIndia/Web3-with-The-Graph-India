@@ -36,7 +36,7 @@ The Graph is a decentralized protocol that is designed for indexing and querying
 
 ## The Graph India Community Manager
 
-- <a href = "https://twitter.com/Charchit_WEB3"> Charchit Kumawat</a>
+- <a href = "https://twitter.com/Charchit_WEB3">Charchit Kumawat</a>
 
 ## For Technical query reach out to:
 
