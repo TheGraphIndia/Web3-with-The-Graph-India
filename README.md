@@ -7,7 +7,9 @@ Welcome to Navigating WEB3 with The Graph. This event is completely run by The G
 - [TheGraphIndia Community" Twitter](https://twitter.com/TheGraphIndia?s=20)
 
 ## Before diving into event
-- <a href = "https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Community_Guidelines.md">Community Guidelines </a>
+- Checkout <a href = "https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Community_Guidelines.md">Community Guidelines </a>
+- Checkout <a href = "https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Contribution_Guide.md">Contribution Guidelines </a>
+- Checkout <a href = "https://github.com/TheGraphIndia/Web3-with-The-Graph-India/blob/main/Code_Style.md">Code Style Guidelines </a>
 
 - [ ] Star and fork the repository.
 
