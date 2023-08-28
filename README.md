@@ -1,6 +1,9 @@
 # Web3-with-The-Graph-India
 
-Welcome to Navigating WEB3 with The Graph. This event is completely run by The Graph India Community and it is open to everyone who wants to participate.
+Welcome to Navigating WEB3 with The Graph. This event is completely run by The Graph India Community and Graph Advocates, it is open to everyone who wants to participate. Follow the instructions provided by the community to get started with the program.
+
+
+For better  communication with the The Graph India Community and members join our Telegram grp 
 
 - ["TheGraphIndia Community" Telegram](https://t.co/2k61q3yf9W)
 
