@@ -29,6 +29,9 @@
 <hr> 
 <h2> Let's Get Started</h2>
 
+<h3><a href=""> Link to PPT </a></h2>
+<h3><a href="https://github.com/TheGraphIndia/Web3-with-The-Graph-India/tree/main/Session_2/Programs"> Link to Programs shown in session </a></h2>
+
 - **Understanding the Term Smart Contract + Basics of Smart contract :**
   
   1. What is Smart Contract?
