@@ -34,4 +34,18 @@ Welcome to the first session of "Web3 with The Graph India". This session will b
 ## Web3 Developer Roadmap
 
 
-### 
+### Web3 and Blockchain fundamentals
+
+### Learn aboout Decentralized Application
+
+### Master Front-End Developement
+
+### Learn writing and deploying smart contracts with Solidity
+
+### Learn to connect your Dapp with front end using Js libraries
+
+### Learn Ethereum Development Environments
+
+### Smart contract Testing
+
+### Build a Full-Stack Web3 Application
