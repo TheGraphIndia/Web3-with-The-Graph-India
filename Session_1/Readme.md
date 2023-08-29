@@ -32,6 +32,10 @@ Welcome to the first session of "Web3 with The Graph India". This session will b
 - About Dapps.
 
 
+## What is Graph Protocol?
+
+---
+
 ## Web3 Developer Roadmap
 
 
