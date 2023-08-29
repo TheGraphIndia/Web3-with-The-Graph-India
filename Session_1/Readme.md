@@ -28,6 +28,7 @@ Welcome to the first session of "Web3 with The Graph India". This session will b
 
 - What are Smart Contracts?
 - About Solidity.
+- How gas fees works?
 - About Dapps.
 
 
