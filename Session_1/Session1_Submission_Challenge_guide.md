@@ -24,7 +24,7 @@ While posting your Twitter Thread 🧵 use this hashtags which will help us to t
 3. Write a Twitter thread on your learning from session 1 and about The Graph. The thread should be at least 3 tweets long and should include the following information:
 
     * Your name and Twitter handle
-    * A link to the Graph documentation
+    * Your learning about The Graph 
     * A summary of what you learned in session 1
     * Your thoughts on The Graph Network
 
