@@ -29,7 +29,7 @@ While posting your Twitter Thread 🧵 use this hashtags which will help us to t
     * Your thoughts on The Graph Network
 
     * Example Tweet by: 
-        [@0xSDew_yashtwt](https://twitter.com/dew_yashtwt/status/1693996457081344360?s=20)
+        [@dew_yashtwt](https://twitter.com/dew_yashtwt/status/1693996457081344360?s=20)
         [@megabyte0x](https://twitter.com/megabyte0x/status/1689630196427812864?s=20)
 
 
