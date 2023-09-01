@@ -52,3 +52,16 @@ For a hands-on approach to creating and deploying subgraphs, check out these vid
 One of the key features of The Graph is its ability to efficiently query data using subgraphs. Learn how to harness this power:
 
 - [Querying Using Subgraph](https://blog.logrocket.com/web3-data-querying-the-graph-subgraphs/): Discover the art of querying data with subgraphs and leverage their potential.
+
+
+## Subgraph Deployment and Usage Guides
+
+This repository contains guides and templates for deploying and utilizing subgraphs using a deposit smart contract and integrating them into a React frontend.
+
+### Repository Contents
+
+1. [**Deploy Subgraph Template**](https://github.com/vkpatva/deploy-subgraph-template): This guide provides instructions on deploying a subgraph using a deposit smart contract. It includes step-by-step details to set up and deploy the subgraph for efficient data querying.
+
+2. [**React Frontend using Subgraph**](https://github.com/vkpatva/react-frontend-using-subgraph): This guide explains how to integrate the deployed subgraph into a React frontend. By following this guide, you can efficiently retrieve and display data from the subgraph in your React application.
+
+Feel free to explore each repository for detailed instructions and examples to deploy and utilize subgraphs effectively.
