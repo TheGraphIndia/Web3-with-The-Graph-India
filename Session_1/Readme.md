@@ -57,10 +57,7 @@ Web3 Develeroper Roadmap by [Viito Rivabella](https://vitto.cc/web3-and-solidity
 
 ## Different protocols in Web3 
 
+- Graph - [Graph Documentation](https://thegraph.com/docs/en/about/)
 
 
-## What is Graph Protocol?
 
-- Introduction about Graph - [Graph Documentation](https://thegraph.com/docs/en/about/)
-- About Graph roles.
-- Subgraph in Graph.
