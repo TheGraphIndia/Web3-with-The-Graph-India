@@ -52,7 +52,7 @@ Web3 Develeroper Roadmap by [Viito Rivabella](https://vitto.cc/web3-and-solidity
  
  - Build a Full-Stack Web3 Application
 
- - Smart contract Testing and Auditing
+ - Smart contract Testing and Auditing - [Patrick Collins](https://www.youtube.com/watch?v=TmZ8gH-toX0&pp=ygUqc21hcnQgY29udHJhY3QgYXVkaXRpbmcgYnkgcGF0cmljayBjb2xsaW5z)
 
 
 ## Different protocols in Web3 
