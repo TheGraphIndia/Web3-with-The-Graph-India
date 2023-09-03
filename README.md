@@ -8,14 +8,6 @@ For better communication with the The Graph India Community and members join our
 [![TheGraphIndia Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheGraphIndia?s=20)
 [![TheGraphIndia Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.co/2k61q3yf9W)
 
-<!-- [![TheGraphIndia YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA) -->
-<!-- [![TheGraphIndia Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/) -->
-
-
-
-<!-- - ["TheGraphIndia Community" Telegram](https://t.co/2k61q3yf9W)
-
-- [TheGraphIndia Community" Twitter](https://twitter.com/TheGraphIndia?s=20) -->
 
 ## Before diving into event
 
@@ -47,6 +39,9 @@ The Graph is a decentralized protocol that is designed for indexing and querying
 
 # FAQ's
 
+
+# Meet Our Team
+
 ## The Graph India Community Manager
 
 - <a href = "https://twitter.com/Charchit_WEB3">Charchit Kumawat</a>
@@ -54,5 +49,16 @@ The Graph is a decentralized protocol that is designed for indexing and querying
 ## For Technical query reach out to:
 
 - <a href = "https://github.com/DevSwayam">Swayam Karle</a>
-- <a href = "https://github.com/yashdev9274?tab=overview&from=2023-08-01&to=2023-08-25">Yash Dewasthale</a>
+- <a href = "https://github.com/yashdev9274">Yash Dewasthale</a>
 - <a href = "https://github.com/vkpatva"> Viraj Patva </a>
+
+
+## Content Creator
+
+- <a href = ""> Abhishek Yadav</a>
+- <a href = ""> Aviral </a>
+
+
+## Community Moderator
+
+- <a href = ""> Anuradha Naidu </a>
