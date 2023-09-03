@@ -90,7 +90,7 @@
 
 
 - **Deploy a smart contract on polygon mumbai test network using frameworks:**
-  - [How to setup Polygon Mumbai in your wallet](https://faucet.polygon.technology/)
+  - [How to setup Polygon Mumbai testnet in your wallet](https://faucet.polygon.technology/)
   - [Link to Polygon Faucet](https://wiki.polygon.technology/docs/tools/wallets/metamask/config-polygon-on-metamask/)
   - [Link to Hardhat Docs](https://hardhat.org/)
   - [Link to Comparison of Top smart contract developement frameworks](https://medium.com/coinmonks/compare-the-top-3-smart-contract-frameworks-for-web3-projects-in-2022-hardhat-truffle-and-ca26c638c597)
