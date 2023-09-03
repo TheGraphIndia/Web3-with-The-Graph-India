@@ -17,7 +17,7 @@ While posting your Twitter Thread 🧵 use this hashtags which will help us to t
 ## Steps on how to Contribute and submit your ?
 
 
-1. Attend session 1 of " Navigating Web3 with The Graph India" event to learn how to get started in web3 with TheGraphIndia. The session will be held on [date] and will be live-streamed.
+1. Attend session 1 of " Navigating Web3 with The Graph India" event to learn how to get started in web3 with TheGraphIndia. The session will be held on [08/09/2023] and will be live-streamed.
 
 2. Check out the Graph documentation to learn more about The Graph Network. You can find documentation [here](https://thegraph.com/docs/en/about/)
 
