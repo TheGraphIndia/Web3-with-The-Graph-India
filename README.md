@@ -48,17 +48,17 @@ The Graph is a decentralized protocol that is designed for indexing and querying
 
 ## For Technical query reach out to:
 
-- <a href = "https://github.com/DevSwayam">Swayam Karle</a>
-- <a href = "https://github.com/yashdev9274">Yash Dewasthale</a>
-- <a href = "https://github.com/vkpatva"> Viraj Patva </a>
+- <a href = "https://twitter.com/DevGasian">Swayam Karle</a>
+- <a href = "https://twitter.com/dew_yashtwt">Yash Dewasthale</a>
+- <a href = "https://twitter.com/vkpatva"> Viraj Patva </a>
 
 
 ## Content Creator
 
-- <a href = ""> Abhishek Yadav</a>
-- <a href = ""> Aviral </a>
+- <a href = "https://twitter.com/that_abhi_"> Abhishek Yadav</a>
+- <a href = "https://twitter.com/Aviraltech"> Aviral </a>
 
 
 ## Community Moderator
 
-- <a href = ""> Anuradha Naidu </a>
+- <a href = "https://twitter.com/AnuradhaNaidu4"> Anuradha Naidu </a>
