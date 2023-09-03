@@ -38,21 +38,21 @@ Welcome to the first session of "Web3 with The Graph India". This session will b
 
 Web3 Develeroper Roadmap by [Viito Rivabella](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) 
 
- -Web3 and Blockchain fundamentals
+ - Web3 and Blockchain fundamentals - [Go back to](https://github.com/TheGraphIndia/Web3-with-The-Graph-India/tree/main/Session_1#introduction-to-web3-and-blockchain-ecosystem)
 
- -Learn aboout Decentralized Application
+ - Learn aboout Decentralized Application - [district0x Network](https://www.youtube.com/watch?v=F50OrwV6Uk8)
 
- -Master Front-End Developement
+ - Master Front-End Developement
 
- -Learn writing and deploying smart contracts with Solidity
+ - Learn writing and deploying smart contracts with Solidity - Course by [Patrick Collins](https://www.youtube.com/watch?v=umepbfKp5rI&t=25191s&pp=ygUfc21hcnQgY29udHJhY3QgcGF0cmljayBjb2xsZWlucw%3D%3D)
 
- -Learn to connect your Dapp with front end using Js libraries
+ - Learn to connect your Dapp with front end using Js libraries - Lec on Etherjs by [Dapp University](https://www.youtube.com/watch?v=yk7nVp5HTCk&t=3130s&pp=ygUWZXRoZXJqcyBieSB1bml2ZXJzaXR5IA%3D%3D) 
 
- -Learn Ethereum Development Environments
-
- -Smart contract Testing
+ - Learn Ethereum Development Environments
  
- -Build a Full-Stack Web3 Application
+ - Build a Full-Stack Web3 Application
+
+ - Smart contract Testing and Auditing
 
 
 ## Different protocols in Web3 

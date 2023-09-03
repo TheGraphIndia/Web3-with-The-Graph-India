@@ -12,7 +12,7 @@ Learn about The Graph form [The Graph docs](https://thegraph.com/docs/en/) and t
 
 While posting your Twitter Thread 🧵 use this hashtags which will help us to track the submissions.
 
-- [ ] `#Web3WithTheGraphIndia`
+- [ ] `#Web3WithGraphIndia`
 
 ## Steps on how to Contribute and submit your ?
 
