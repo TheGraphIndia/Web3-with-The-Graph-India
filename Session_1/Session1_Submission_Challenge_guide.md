@@ -26,12 +26,16 @@ While posting your Twitter Thread 🧵 use this hashtags which will help us to t
     * Your learning about The Graph 
     * A summary of what you learned in session 1
 
-    * Example Tweet by: 
+    * Example Tweet Template to use for submission:
+
+        [Submission Template](https://twitter.com/intent/tweet?text=What%20I%20learnt%20from%20Session1%0A%0AAn%20explanatory%20Twitter%20Thread%20%F0%9F%A7%B5%F0%9F%91%87%F0%9F%8F%BC.%0A%0A%23Web3WithGraphIndia%20%23GraphIndia)
+
+    * Also refer to these Twitter threads about The Graph    
         [@dew_yashtwt](https://twitter.com/dew_yashtwt/status/1693996457081344360?s=20)
         [@megabyte0x](https://twitter.com/megabyte0x/status/1689630196427812864?s=20)
 
 
-4. Submit your Twitter thread using this [form]().
+4. Submit your Twitter thread using this [Airtable Form](https://airtable.com/appR4CZfzUei3bIYq/shrjL5fq49e3GyRo1).
 
 5. Inform about the challenge submission in TheGraphIndia [telegram channel](https://t.co/2k61q3yf9W).
 
