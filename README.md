@@ -7,6 +7,8 @@ For better communication with the The Graph India Community and members join our
 
 [![TheGraphIndia Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheGraphIndia?s=20)
 [![TheGraphIndia Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.co/2k61q3yf9W)
+[![TheGraphIndia Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/thegraphindia/)
+
 
 
 ## Before diving into event
