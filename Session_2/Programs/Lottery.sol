@@ -1,56 +1,60 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Lottery {
-    address public manager; // Address of the lottery manager
-    address[] public players; // Addresses of participants
-    uint256 public ticketPrice; // Price to enter the lottery
-    uint256 public winnerIndex; // Index of the winner in the players array
-    bool public lotteryEnded; // Flag to indicate if the lottery has ended
+contract EventContract {
+    address public owner;
+    uint256 public registrationFee;
     
-    // Event emitted when a player enters the lottery
-    event PlayerEntered(address indexed player, uint256 ticketPrice);
+    event Registration(address indexed participant, uint256 registrationId, uint256 timestamp);
+    event Cancellation(address indexed participant, uint256 registrationId, uint256 timestamp);
     
-    // Event emitted when a winner is picked
-    event WinnerPicked(address indexed winner, uint256 prizeAmount);
-    
-    constructor(uint256 _ticketPrice) {
-        manager = msg.sender;
-        ticketPrice = _ticketPrice;
+    struct RegistrationInfo {
+        bool isRegistered;
+        uint256 timestamp;
     }
     
-    // Function to enter the lottery
-    function enter() public payable {
-        require(!lotteryEnded, "Lottery has ended");
-        require(msg.value == ticketPrice, "Incorrect ticket price");
-        
-        players.push(msg.sender);
-        
-        emit PlayerEntered(msg.sender, ticketPrice);
+    mapping(address => RegistrationInfo) public registrations;
+    uint256 public registrationCount;
+    
+    constructor(uint256 _registrationFee) {
+        owner = msg.sender;
+        registrationFee = _registrationFee;
     }
     
-    // Function for the manager to pick a winner
-    function pickWinner() public {
-        require(msg.sender == manager, "Only the manager can call this");
-        require(players.length > 0, "No players in the lottery");
-        
-        // Generate a pseudo-random number using block.timestamp and player count
-        uint256 randomIndex = uint256(keccak256(abi.encodePacked(block.timestamp, players.length))) % players.length;
-        
-        winnerIndex = randomIndex;
-        address winner = players[randomIndex];
-        
-        // Transfer the entire contract balance to the winner
-        uint256 prizeAmount = address(this).balance;
-        payable(winner).transfer(prizeAmount);
-        
-        lotteryEnded = true;
-        
-        emit WinnerPicked(winner, prizeAmount);
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Only the owner can call this function");
+        _;
     }
     
-    // Function to get the list of players
-    function getPlayers() public view returns (address[] memory) {
-        return players;
+    modifier notRegistered() {
+        require(!registrations[msg.sender].isRegistered, "Already registered");
+        _;
+    }
+    
+    modifier isRegistered() {
+        require(registrations[msg.sender].isRegistered, "Not registered");
+        _;
+    }
+    
+    function register() external payable notRegistered {
+        require(msg.value == registrationFee, "Incorrect registration fee");
+        
+        registrations[msg.sender] = RegistrationInfo(true, block.timestamp);
+        registrationCount++;
+        
+        emit Registration(msg.sender, registrationCount, block.timestamp);
+    }
+    
+    function cancelRegistration() external isRegistered {
+        delete registrations[msg.sender];
+        registrationCount--;
+        
+        payable(msg.sender).transfer(registrationFee);
+        
+        emit Cancellation(msg.sender, registrationCount + 1, block.timestamp);
+    }
+    
+    function withdrawFunds() external onlyOwner {
+        payable(owner).transfer(address(this).balance);
     }
 }
